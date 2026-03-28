@@ -9,13 +9,13 @@ network and how the software works***
 ---
 
 **Skills:**
-- Junior C++ developer, begginer Python developer
-- Linux, Windows
-- Basic knowleg of networking
+  - Junior C++ developer, begginer Python developer
+  - Linux, Windows
+  - Basic knowleg of networking
+<br>
 **Lear:**
-- Rust
-- Git
-- Bash lang
+  - Rust
+  - Bash lang
 
 <p align="left">
 <!-- C++ -->
