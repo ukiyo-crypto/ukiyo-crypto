@@ -5,7 +5,7 @@
 
 
 ***Learning programming languages,<br>
-network and how the software works***
+networks and how the software works***
 ---
 
 **Skills:**
