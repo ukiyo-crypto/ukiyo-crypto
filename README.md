@@ -1,5 +1,5 @@
 <br><br>
-<h1 style="color:darkcyan;" align="left"> Hello! I`m ukiyo <img src="https://img.icons8.com/?size=100&id=1H52efUsDX7A&format=png&color=000000" width="50" height="50"/>
+<h1 style="color:darkcyan;" align="left"> Hello! I`m ukiyo />
 <br><br>
 </h1>
 
