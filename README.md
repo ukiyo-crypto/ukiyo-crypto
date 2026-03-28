@@ -1,17 +1,21 @@
 <br><br>
-<h1 style="color:darkcyan;" align="left"> Hi! I`m Ukiyo <img src="https://img.icons8.com/?size=100&id=1H52efUsDX7A&format=png&color=000000" width="50" height="50"/>
+<h1 style="color:darkcyan;" align="left"> Hello! I`m ukiyo <img src="https://img.icons8.com/?size=100&id=1H52efUsDX7A&format=png&color=000000" width="50" height="50"/>
 <br><br>
 </h1>
 
 
 ***Learning programming languages,<br>
-network, cybersecurity skills and how the software works***
+network and how the software works***
 ---
 
 **Skills:**
-- Junior C++ developer, begginer Python developer,learn Rust, Git, Bash
+- Junior C++ developer, begginer Python developer
 - Linux, Windows
 - Basic knowleg of networking
+**Lear:**
+- Rust
+- Git
+- Bash lang
 
 <p align="left">
 <!-- C++ -->
@@ -51,5 +55,5 @@ There are currenty no
 ##
 **Contact**:
 <br><br>
--LinkedIn: [![LinkedIn](https:://img.shields.io/badge/LinkedIn-Oleg-Shipunov-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/Oleg-Shipunov)
+-LinkedIn: 
 
