@@ -12,7 +12,7 @@ network and how the software works***
   - Junior C++ developer, begginer Python developer
   - Linux, Windows
   - Basic knowleg of networking
-<br>
+
 **Lear:**
   - Rust
   - Bash lang
