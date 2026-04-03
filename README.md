@@ -10,7 +10,7 @@ networks and how the software works***
 ---
 
 **Skills:**
-  - Junior C++, begginer Python
+  - begginer C++, begginer Python
   - Linux, Windows
   - Basic knowleg of networking
 
